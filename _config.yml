@@ -1,0 +1,4 @@
+title: My GitHub Pages Site
+description: A brief description of my site
+theme: jekyll-theme-minimal  # You can choose a different Jekyll theme
+source: docs
